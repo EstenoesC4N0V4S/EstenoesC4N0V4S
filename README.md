@@ -8,10 +8,10 @@
 
 ### 🛠️ Mi Stack Tecnológico
 
-* **Frontend:** JavaScript (ES6+), HTML5, CSS3, Bootstrap, AJAX
+* **Frontend:** JavaScript (ES6+), HTML5, CSS3, Bootstrap
 * **Backend:** PHP, Arquitectura MVC
 * **Bases de Datos:** MySQL, SQL (Diseño y modelado de datos)
-* **Herramientas & Control de versiones:** Git, GitHub, VS Code
+* **Herramientas & Control de versiones:** Git, GitHub, VS Code, Figma, Canva, Draw.io
 
 ---
 
