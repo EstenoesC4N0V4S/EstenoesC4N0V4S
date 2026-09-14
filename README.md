@@ -17,7 +17,7 @@
 
 ### 🚀 Proyectos Destacados
 
-* **[Proyecto Final DAW - F1 Setup Simulator & Store](https://github.com/EstenoesC4nov4s/proyecto-final-daw):** Aplicación web Full Stack desarrollada en PHP con arquitectura MVC, JavaScript, AJAX y MySQL, incluyendo un módulo de tienda online.
+* **[Proyecto Final DAW - F1 Setup Simulator & Store](https://github.com/EstenoesC4N0V4S/proyecto-final-daw):** Aplicación web Full Stack desarrollada en PHP con arquitectura MVC, JavaScript, AJAX y MySQL, incluyendo un módulo de tienda online.
 
 ---
 
