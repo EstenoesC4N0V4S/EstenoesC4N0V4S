@@ -36,6 +36,6 @@ Actualmente estoy ampliando mis conocimientos en **Design Systems, componentes r
 
 ### 📫 ¿Cómo contactar conmigo?
 
-* **Portfolio:** [Enlace a tu portfolio web]
-* **LinkedIn:** [Tu enlace de LinkedIn]
+* **Portfolio:** [Enlace a tu portfolio web] *(¡Pronto operativo!)*
+* **LinkedIn:** [Tu enlace de LinkedIn] *(¡Pronto operativo!)*
 * **GitHub:** https://github.com/EstenoesC4N0V4S
