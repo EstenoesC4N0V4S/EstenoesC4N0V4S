@@ -24,4 +24,4 @@
 ### 📫 ¿Cómo contactar Conmigo?
 
 * **Portfolio:** [Enlace a tu portfolio web] *(¡Pronto operativo!)*
-* **LinkedIn:** [Tu enlace de LinkedIn]
+* **LinkedIn:** [Tu enlace de LinkedIn] *(¡Pronto operativo!)*
